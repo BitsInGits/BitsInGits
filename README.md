@@ -1,5 +1,5 @@
 # 📒 About Me:
-🔭 Working on: Oracle DB, Python automation, microcontrollers<br>👯 Strength: Teamwork<br>🤝 Active on: Stack Overflow :]<br>🌱 Currently Learning: OOP with C#<br>💬 Question: What came first, the compiler, or the source code?<br>⚡ Motto: From PCB to HLL and from assembly to frameworks, everything is possible!
+🔭 Working on: Oracle DB, Python automation, microcontrollers<br>👯 Strength: Teamwork<br>🤝 Active on: Stack Overflow :]<br>🌱 Currently Learning: OOP with C#<br>💬 Question: What came first, the compiler, or the source code?<br>⚡ Motto: From PCB to LLM and from assembly to frameworks, everything is possible!
 
 
 # 💻 Tech Stack:
